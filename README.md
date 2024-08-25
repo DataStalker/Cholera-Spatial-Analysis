@@ -1,6 +1,3 @@
-Here’s a structured GitHub README file for your project:
-
-```markdown
 # Cholera Data Analysis
 
 ## Overview
